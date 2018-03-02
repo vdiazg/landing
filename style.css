@@ -2,6 +2,34 @@ body
 {
 	color: #FFFFFF;
 }
+@font-face {
+	font-family: IAmAWitness;
+	src: url("./font/IAmAWitness.otf") format("opentype");
+}
+.font-amarillo{
+	color: #facd01;
+}
+.font-rojo{
+	color: #cf152d;
+}
+.font-blanco{
+	color: #FFFFFF;
+}
+.fontripley {
+	font-family: "IAmAWitness";
+	font-size: 50px;
+	text-decoration: none !important;
+	text-transform: uppercase;
+
+	border: 5px solid #facd01;
+    padding: 20px;
+    border-radius: 10px;
+}
+.fontripley span {
+	padding: 0;
+	margin: 0;
+}
+/* <p class="customfont">Hello world!</p> */
 .row_1
 {
 	background-image: url('../imgs/fondo-video.png');
@@ -75,6 +103,6 @@ body
 }
 
 #section_3 h5 {
-margin-left: 20px;
-color: #000000;
+	margin-left: 20px;
+	color: #000000;
 }
