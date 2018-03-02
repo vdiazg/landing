@@ -1,0 +1,80 @@
+body
+{
+	color: #FFFFFF;
+}
+.row_1
+{
+	background-image: url('../imgs/fondo-video.png');
+}
+
+.row_2
+{
+	background-color: #602360;
+}
+
+.row_3
+{
+	background-image: url('../imgs/footer02.png');
+}
+
+.logo-braveup{
+	max-width: 100%;
+	padding: 25px;
+}
+
+.logo-ripley{
+	max-width: 100%;
+	padding: 40px;
+}
+
+.phone{
+	max-width: 100%;
+	padding: 25px;
+}
+
+.p-top-20{
+	padding-top: 20px;
+}
+
+.m-top-20{
+	margin-top: 80px;
+}
+
+.logoapp{
+	max-width: 50%;
+}
+
+.video-braveup
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.m-20{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.p-35{
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+
+.vertical-align-content > *
+{
+	display: flex!important;
+	align-content: center!important;
+	align-items: center!important;
+}
+
+#section_3 .m-top-1{
+	margin-top: 60px;
+}
+
+#section_3 img{
+	width: 200px;
+}
+
+#section_3 h5 {
+margin-left: 20px;
+color: #000000;
+}
